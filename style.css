@@ -1,0 +1,12 @@
+body{
+    background-color: lavender;
+    text-align: center;
+}
+form{
+    width: 400px;
+    height: 200px;
+    background-color: beige;
+    border-radius: 30px;
+    margin-left: 550px ;
+    margin-top: 200px;
+}
